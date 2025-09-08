@@ -1,1 +1,1 @@
-![Landing Page](/CrisxEsco.github.io/assets/construction_landing.png)
+![Landing Page](https://github.com/CrisxEsc/CrisxEsco.github.io/blob/assets/construction_landing.png)
