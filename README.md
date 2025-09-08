@@ -1,2 +1,2 @@
 # Hi there! 
-![Landing Page](/CrisxEsco.github.io/assets/construction_landing.png)
+![Landing Page](/CrisxEsco.github.io/docs/assets/construction_landing.png)
