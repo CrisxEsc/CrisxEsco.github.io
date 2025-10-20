@@ -16,4 +16,5 @@ This section acts as a roadmap for showcasing growth in software design and engi
 - [Algorithms & Data Structures](artifacts/algorithms-data-structures.html)
 - [Databases](artifacts/databases.html)
 
-assets/css/Artifacts.png
+![Artifacts](assets/css/Artifacts.png)
+
