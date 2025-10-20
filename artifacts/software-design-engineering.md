@@ -21,20 +21,11 @@ I implemented input validation across the app to prevent crashes caused by empty
 
 ## Enhancement Summary
 
-Describe the engineering improvements you made. Consider addressing:
+### Click here to see project
+[![Event Tracking Application](https://img.shields.io/badge/GitHub-Event%20Tracking%20Application-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/CrisxEsc/Event-Tracking-Application)
 
-- Refined architecture or design patterns
-- Improved readability, modularity, or test coverage
-- Additional features or platform support
-- Tooling updates (CI/CD, documentation, automation)
 
-## Evidence of Growth
-
-| Skill / Outcome | Evidence | Notes |
-| --- | --- | --- |
-| Software Design Principles | _Describe which principles were applied and where_ | _Add links to commits or files_ |
-| Testing & Quality Assurance | _Summarize the tests or verification steps_ | _Reference test results or reports_ |
-| Collaboration & Communication | _Mention documentation, code reviews, or stakeholder updates_ | _Provide supporting links_ |
+![App screenshot](https://crisxesco.github.io/assets/App.png)
 
 ---
 ## Reflection
