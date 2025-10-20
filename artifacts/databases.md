@@ -8,13 +8,11 @@ permalink: /artifacts/databases.html
 
 # Databases Enhancement
 
-Use this page to detail how you strengthened the data layer of your selected artifact.
+## Brief Overview
 
-## Artifact Overview
+For the database category, I worked on the Animal Shelter Dashboard. This is a web application that uses MongoDB to manage shelter data. The original version ran multiple queries and processed data on the front end, which slowed things down. I chose this artifact because it gave me the chance to show how database design and query optimization can change the user experience.
 
-- **Artifact Title:** _Add the project or repository name_
-- **Course / Context:** _Identify when and where the project originated_
-- **Technology Stack:** _List database technologies, ORMs, and supporting tools_
+I rewrote several data paths using aggregation pipelines. This let the database handle grouping and counting, which reduced the load on the application and made it faster. I added indexes to fields that appear in filters. I also applied stronger validation both in the client and server code to protect data quality and reduce user errors.
 
 ## Original Data Model & Behavior
 
@@ -37,10 +35,6 @@ Highlight the database-specific enhancements, such as:
 | Performance Optimization | _Summarize indexing strategies or query tuning_ | _Reference explain plans or metrics_ |
 | Full-Stack Integration | _Explain how the database connects with the UI / API_ | _Include links to relevant repositories_ |
 
+---
 ## Reflection
-
-- **How did the enhancements improve reliability, scalability, or security?**
-- **What challenges did you encounter while modifying the data layer?**
-- **Which course outcomes does this enhancement fulfill?**
-
-> **Next Step:** Replace the placeholder content with your database enhancement narrative, diagrams, and supporting links.
+This process helped me connect database principles to actual outcomes. I used explain plans to verify that indexes worked. I found that a well written aggregation can replace pages of front end logic. I also practiced creating validation rules to catch bad input early. One lesson I learned was to build validation where it is needed most. I made sure form inputs give clear guidance and that the database rejects anything outside the expected shape. These enhancements aligned with outcomes related to secure data handling, performance tuning, and building reliable data driven applications.
