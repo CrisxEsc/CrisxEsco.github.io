@@ -23,8 +23,10 @@ I rewrote several data paths using aggregation pipelines. This let the database 
     git submodule add https://github.com/CrisxEsc/Animal-Shelter.git content/Animal-Shelter
 
 
-![Dash](https://github.com/CrisxEsc/CrisxEsco.github.io/blob/c170431faea6370e7f68e6c00a9b9216d2ad2598/assets/New_Dash.png){: style="height:83px"}
-![AAC](https://github.com/CrisxEsc/CrisxEsco.github.io/blob/900894225899f80c05f37559a5da8aaf5127d5f9/assets/AAC.png){: style="height:83px"}
+<p align="center">
+  <img src="https://github.com/CrisxEsc/CrisxEsco.github.io/blob/c170431faea6370e7f68e6c00a9b9216d2ad2598/assets/New_Dash.png" width="45%">
+  <img src="https://github.com/CrisxEsc/CrisxEsco.github.io/blob/c294a736c73d756afacf74395e12743d64f62852/assets/AAC.png" width="45%">
+</p>
 
 
 
