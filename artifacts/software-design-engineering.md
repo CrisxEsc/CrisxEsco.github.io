@@ -17,9 +17,10 @@ I implemented input validation across the app to prevent crashes caused by empty
 
 ## Original Implementation Snapshot
 
-> _Embed images, gifs, or short video clips that demonstrate the original behavior. Link to the original repository or downloadable files so reviewers can compare the before-and-after states._
+![Old DB](https://raw.githubusercontent.com/CrisxEsc/CrisxEsco.github.io/29e8544466e15bf201cabccac339b1c532072473/assets/Old_DB.png)
 
-## Enhancement Summary
+
+## Enhancement 
 
 ### Click here to see project
 [![Event Tracking Application](https://img.shields.io/badge/GitHub-Event%20Tracking%20Application-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/CrisxEsc/Event-Tracking-Application)
