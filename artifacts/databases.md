@@ -22,7 +22,8 @@ I rewrote several data paths using aggregation pipelines. This let the database 
 </p>
 
 ## Enhancement Details
-    See my **Animal Shelter** project → [github.com/CrisxEsc/Animal-Shelter](https://github.com/CrisxEsc/Animal-Shelter)
+
+[![Animal Shelter](https://img.shields.io/badge/GitHub-Animal%20Shelter-181717?logo=github)](https://github.com/CrisxEsc/Animal-Shelter)
 
 
 
