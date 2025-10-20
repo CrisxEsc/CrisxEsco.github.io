@@ -31,17 +31,4 @@ _Add your recorded walkthrough here. Options include:_
 - Uploading the video to a cloud storage provider and linking to it
 - Hosting a small MP4 in the repository (be mindful of Git history size)
 
-## Review Checklist
-
-While recording the video, cover the following talking points so visitors understand the enhancement plan:
-
-1. **Existing Functionality:** Summarize the current behavior of the artifact before enhancements.
-2. **Code Analysis:** Identify opportunities for improvement (structure, logic, efficiency, testing, documentation, security, etc.).
-3. **Enhancement Roadmap:** Explain what you will change for each artifact and how those changes align with the course outcomes.
-4. **Skills Demonstrated:** Call out which enhancements emphasize software design & engineering, algorithms & data structures, and databases.
-
-## Supporting Materials
-
-Use this section to link to slide decks, diagrams, or transcripts that support the video presentation.
-
-> **Next Step:** Replace the placeholder content with your recorded video, transcripts, and supplementary resources.
+![Review]assets/Review.jpg
