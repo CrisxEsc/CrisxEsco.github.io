@@ -23,6 +23,7 @@ I rewrote several data paths using aggregation pipelines. This let the database 
 
 ## Enhancement Details
 
+# Click here to see project
 [![Animal Shelter](https://img.shields.io/badge/GitHub-Animal%20Shelter-181717?logo=github)](https://github.com/CrisxEsc/Animal-Shelter)
 
 
