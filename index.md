@@ -23,7 +23,7 @@ title: Cristian Escobedo's ePortfolio
 
 **Introduction**
 
-Completing the Bachelor of Science in Computer Science has been both demanding and rewarding. My concentration in software engineering has shaped my approach to building applications that are not only functional but also grounded in user needs and sound technical principles. As I move toward data scientist roles, this portfolio captures the growth I have experienced throughout the program. The projects included show the depth of my technical skills and the direction of my professional goals. This assessment introduces that work and provides a narrative that connects my experiences to the broader goals of the field.
+>Completing the Bachelor of Science in Computer Science has been both demanding and rewarding. My concentration in software engineering has shaped my approach to building applications that are not only functional but also grounded in user needs and sound technical principles. As I move toward data scientist roles, this portfolio captures the growth I have experienced throughout the program. The projects included show the depth of my technical skills and the direction of my professional goals. This assessment introduces that work and provides a narrative that connects my experiences to the broader goals of the field.
 
 **Key Competencies and Skills Developed**
 
