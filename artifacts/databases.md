@@ -24,7 +24,7 @@ I rewrote several data paths using aggregation pipelines. This let the database 
 
 ![New dashboard](assets/New_Dash.png)
 
-![AAC](assets/AAC.png)
+![AAC](https://github.com/CrisxEsc/CrisxEsco.github.io/blob/900894225899f80c05f37559a5da8aaf5127d5f9/assets/AAC.png)
 
 
 
