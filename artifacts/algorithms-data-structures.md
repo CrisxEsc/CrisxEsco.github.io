@@ -14,14 +14,18 @@ For this category, I continued working on the Event Tracker project. I wanted to
 
 I added indexes to the database to make searches faster. I also implemented an in memory cache using a Least Recently Used strategy, which stored recent queries so repeat searches could load instantly. These changes made the app more efficient and less dependent on network access. I also added offline caching with logic to sync changes when the device reconnects. That work required planning for conflicts and retry logic.
 
-## Baseline Performance or Behavior
+## Original Performance
 
-> _Summarize how the original implementation worked and any performance metrics, limitations, or complexity concerns you identified._
+![Old Event](https://raw.githubusercontent.com/CrisxEsc/CrisxEsco.github.io/29e8544466e15bf201cabccac339b1c532072473/assets/Old_Event.png)
+![Old DB](https://raw.githubusercontent.com/CrisxEsc/CrisxEsco.github.io/29e8544466e15bf201cabccac339b1c532072473/assets/Old_DB.png)
+
 
 ## Enhancement 
 
 ### Click here to see project
 [![Event Tracking Application](https://img.shields.io/badge/GitHub-Event%20Tracking%20Application-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/CrisxEsc/Event-Tracking-Application)
+
+![Kot](https://raw.githubusercontent.com/CrisxEsc/CrisxEsco.github.io/29e8544466e15bf201cabccac339b1c532072473/assets/Kot.png)
 
 
 ---
