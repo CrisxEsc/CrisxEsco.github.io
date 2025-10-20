@@ -8,6 +8,7 @@ permalink: /artifacts/software-design-engineering.html
 
 # Software Design & Engineering Enhancement
 
+
 ## Brief Overview
 
 My enhancement in software design focused on the Event Tracker mobile application. This app allows users to log and view events, and it began with a simple structure that lacked flexibility. I selected this artifact because it presented a real opportunity to apply modern architecture principles and create a cleaner, more reliable system. I redesigned the app using a Model View ViewModel structure and separated core logic into reusable components. This helped me deliver better maintainability and performance.
