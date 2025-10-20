@@ -13,13 +13,7 @@ This code review provides a walkthrough of my original project work prior to enh
 ---
 
 <div class="video-embed__frame" aria-label="Code review video placeholder">
-  <iframe
-    srcdoc="<style>body{margin:0;display:flex;align-items:center;justify-content:center;height:100%;font-family:system-ui,sans-serif;background:#f2f5fb;color:#0f2d62;text-align:center;font-weight:600;padding:1.5rem;box-sizing:border-box;}p{max-width:26ch;line-height:1.4;}</style><p>src="https://www.youtube.com/watch?v=xAy98Yndll0"</p>"
-    title="Code Review Walkthrough placeholder"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-  ></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xAy98Yndll0?si=eQA-lcgDSoEZPt44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ---
