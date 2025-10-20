@@ -12,10 +12,17 @@ This code review provides a walkthrough of my original project work prior to enh
 
 ---
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/Ay98Yndll0"
+    title="Code Review"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+  ></iframe>
+</div>
 
-[Watch on YouTube](https://youtu.be/xAy98Yndll0)
-
-[![Main](https://img.youtube.com/vi/xAy98Yndll0/0.jpg)](https://www.youtube.com/watch?v=xAy98Yndll0)
 
 ---
 ![Review](assets/Review.jpg)
