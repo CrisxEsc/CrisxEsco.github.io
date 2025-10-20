@@ -12,16 +12,22 @@ This code review provides a walkthrough of my original project work prior to enh
 
 ---
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+<!-- Responsive YouTube embed (works on GitHub Pages) -->
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:12px;">
   <iframe
-    src="https://www.youtube.com/embed/Ay98Yndll0"
-    title="Code Review"
+    src="https://www.youtube-nocookie.com/embed/xAy98Yndll0"
+    title="YouTube video player"
+    loading="lazy"
     frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
   ></iframe>
 </div>
+<p style="text-align:center; font-size:0.9rem; margin-top:0.5rem;">
+  If the video doesn’t load, <a href="https://youtu.be/xAy98Yndll0">watch it on YouTube</a>.
+</p>
+
 
 
 ---
