@@ -8,13 +8,11 @@ permalink: /artifacts/software-design-engineering.html
 
 # Software Design & Engineering Enhancement
 
-Use this page to highlight how you improved the architecture, design, or overall engineering quality of a selected artifact.
+## Brief Overview
 
-## Artifact Overview
+My enhancement in software design focused on the Event Tracker mobile application. This app allows users to log and view events, and it began with a simple structure that lacked flexibility. I selected this artifact because it presented a real opportunity to apply modern architecture principles and create a cleaner, more reliable system. I redesigned the app using a Model View ViewModel structure and separated core logic into reusable components. This helped me deliver better maintainability and performance.
 
-- **Artifact Title:** _Add the project or repository name_
-- **Course / Context:** _Identify when and where the project originated_
-- **Technology Stack:** _List languages, frameworks, and tools_
+I implemented input validation across the app to prevent crashes caused by empty or malformed entries. I also used secure storage for sensitive data, relying on Android's encryption tools to protect user information. These decisions required careful design and testing. I demonstrated skills in architecture design, defensive programming, and platform specific security.
 
 ## Original Implementation Snapshot
 
@@ -37,10 +35,8 @@ Describe the engineering improvements you made. Consider addressing:
 | Testing & Quality Assurance | _Summarize the tests or verification steps_ | _Reference test results or reports_ |
 | Collaboration & Communication | _Mention documentation, code reviews, or stakeholder updates_ | _Provide supporting links_ |
 
+---
 ## Reflection
 
-- **What did you learn while enhancing this artifact?**
-- **What challenges did you encounter and how did you overcome them?**
-- **How does this enhancement demonstrate mastery of the software design and engineering outcome(s)?**
+During the enhancement process, I learned how planning upfront can save time later. I drew diagrams and mapped data flows before touching code. Converting from a monolithic design to a layered model challenged me to manage dependencies and keep the UI responsive. I wrote unit tests to confirm that logic stayed intact during the refactor. I learned how to keep the interface simple while introducing more structure underneath. These efforts met outcomes around designing maintainable solutions, applying secure practices, and using industry tools to deliver real value.
 
-> **Next Step:** Replace each placeholder with detailed content once your enhancement is complete and supporting assets are uploaded.
