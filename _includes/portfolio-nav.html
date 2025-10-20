@@ -1,0 +1,10 @@
+{% assign current = page.url | default: '/' %}
+{% if current == '' or current == '/index.html' %}
+  {% assign current = '/' %}
+{% endif %}
+
+<nav class="portfolio-nav" aria-label="Portfolio sections">
+  <a href="{{ '/' | relative_url }}" class="{% if current == '/' %}active{% endif %}">Self-Assessment</a>
+  <a href="{{ '/artifacts.html' | relative_url }}" class="{% if current == '/artifacts.html' or current contains '/artifacts/' %}active{% endif %}">Artifacts</a>
+  <a href="{{ '/code-review.html' | relative_url }}" class="{% if current == '/code-review.html' %}active{% endif %}">Code Review</a>
+</nav>
