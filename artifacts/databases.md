@@ -22,9 +22,10 @@ I rewrote several data paths using aggregation pipelines. This let the database 
 ## Enhancement Details
     git submodule add https://github.com/CrisxEsc/Animal-Shelter.git content/Animal-Shelter
 
-| ![New](assets/New_Dash.png) | ![Original](assets/OG_Animal.png) |
-|:--:|:--:|
-| New dashboard | Original chart |
+![New dashboard](assets/New_Dash.png)
+
+![AAC](assets/AAC.png)
+
 
 
 ## Reflection
