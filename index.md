@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ePortfolio
+![Banner](assets/Banner.jpeg)
 ---
 
 {% include portfolio-nav.html %}
