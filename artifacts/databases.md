@@ -27,11 +27,9 @@ I rewrote several data paths using aggregation pipelines. This let the database 
 [![Animal Shelter](https://img.shields.io/badge/GitHub-Animal%20Shelter-181717?logo=github)](https://github.com/CrisxEsc/Animal-Shelter)
 
 
+![New Animal](https://raw.githubusercontent.com/CrisxEsc/CrisxEsco.github.io/29e8544466e15bf201cabccac339b1c532072473/assets/New_Animal.png)
+![AAC](https://raw.githubusercontent.com/CrisxEsc/CrisxEsco.github.io/29e8544466e15bf201cabccac339b1c532072473/assets/AAC.png)
 
-<p align="center">
-  <img src="https://github.com/CrisxEsc/CrisxEsco.github.io/blob/c170431faea6370e7f68e6c00a9b9216d2ad2598/assets/New_Dash.png" width="45%">
-  <img src="https://github.com/CrisxEsc/CrisxEsco.github.io/blob/c294a736c73d756afacf74395e12743d64f62852/assets/AAC.png" width="45%">
-</p>
 
 
 
