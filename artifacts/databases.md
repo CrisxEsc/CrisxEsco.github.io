@@ -16,10 +16,9 @@ I rewrote several data paths using aggregation pipelines. This let the database 
 
 ## Original Data Model
 
-<p align="center">
-  <img src="https://github.com/CrisxEsc/CrisxEsco.github.io/blob/b21587879cd623d88208b2c4f50e4580ecbd12dc/assets/OG_Animal.png" width="45%">
-  <img src="https://github.com/CrisxEsc/CrisxEsco.github.io/blob/b21587879cd623d88208b2c4f50e4580ecbd12dc/assets/OG_Dash.png" width="45%">
-</p>
+![OG Animal](https://raw.githubusercontent.com/CrisxEsc/CrisxEsco.github.io/29e8544466e15bf201cabccac339b1c532072473/assets/OG_Animal.png)
+![OG Dashboard](https://raw.githubusercontent.com/CrisxEsc/CrisxEsco.github.io/29e8544466e15bf201cabccac339b1c532072473/assets/OG_Dash.png)
+
 
 ## Enhancement Details
 
