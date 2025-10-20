@@ -6,9 +6,9 @@ permalink: /code-review.html
 
 {% include portfolio-nav.html %}
 
-# Informal Code Review Walkthrough
+# Code Review Walkthrough
 
-Use this page to host or embed the video that outlines your artifact enhancement plan.
+This code review provides a walkthrough of my original project work prior to enhancement. I explain how the existing code functions, highlight areas for improvement, and outline the changes I planned across design, efficiency, and security. The review reflects how I applied course outcomes to guide my thinking and showcases my approach to writing clearer, more maintainable code. It sets the foundation for the enhancements documented in the sections that follow.
 
 ## Video Placeholder
 
@@ -25,10 +25,6 @@ Use this page to host or embed the video that outlines your artifact enhancement
 
 <p class="video-embed__instructions"><strong>Tip:</strong> Swap the <code>srcdoc</code> attribute above for a <code>src</code> that points to your hosted video when you are ready to publish.</p>
 
-_Add your recorded walkthrough here. Options include:_
 
-- Embedding an unlisted YouTube or Vimeo video using an iframe
-- Uploading the video to a cloud storage provider and linking to it
-- Hosting a small MP4 in the repository (be mindful of Git history size)
 
 ![Review](assets/Review.jpg)
