@@ -18,22 +18,11 @@ I added indexes to the database to make searches faster. I also implemented an i
 
 > _Summarize how the original implementation worked and any performance metrics, limitations, or complexity concerns you identified._
 
-## Enhancement Strategy
+## Enhancement 
 
-Explain the algorithmic improvements or data structure changes you implemented. Examples include:
+### Click here to see project
+[![Event Tracking Application](https://img.shields.io/badge/GitHub-Event%20Tracking%20Application-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/CrisxEsc/Event-Tracking-Application)
 
-- Replacing inefficient algorithms with optimized variants
-- Introducing appropriate data structures to reduce complexity
-- Parallelizing or batching operations to improve throughput
-- Adding instrumentation or profiling to validate performance gains
-
-## Results & Evidence
-
-| Metric | Before | After | Notes |
-| --- | --- | --- | --- |
-| Time Complexity | _e.g., O(n^2)_ | _e.g., O(n log n)_ | _Explain the change_ |
-| Space Complexity | _Describe baseline_ | _Describe improvement_ | _Add references to code_ |
-| Performance Benchmark | _Add numeric baseline_ | _Add improved result_ | _Link to benchmark script or output_ |
 
 ---
 ## Reflection
