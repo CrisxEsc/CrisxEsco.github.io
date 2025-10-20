@@ -22,8 +22,10 @@ I rewrote several data paths using aggregation pipelines. This let the database 
 ## Enhancement Details
     git submodule add https://github.com/CrisxEsc/Animal-Shelter.git content/Animal-Shelter
 
-![New_Dash](assets/New_Dash.png)  
-![AAC](assets/OG_Animal.png)
+| ![New](assets/New_Dash.png) | ![Original](assets/OG_Animal.png) |
+|:--:|:--:|
+| New dashboard | Original chart |
+
 
 ## Reflection
 This process helped me connect database principles to actual outcomes. I used explain plans to verify that indexes worked. I found that a well written aggregation can replace pages of front end logic. I also practiced creating validation rules to catch bad input early. One lesson I learned was to build validation where it is needed most. I made sure form inputs give clear guidance and that the database rejects anything outside the expected shape. These enhancements aligned with outcomes related to secure data handling, performance tuning, and building reliable data driven applications.
