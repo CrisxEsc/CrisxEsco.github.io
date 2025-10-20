@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cristian Escobedo's ePortfolio
+title: ePortfolio
 ---
 
 {% include portfolio-nav.html %}
