@@ -16,8 +16,10 @@ I rewrote several data paths using aggregation pipelines. This let the database 
 
 ## Original Data Model
 
-![Animal](assets/OG_Animal.png){: style="height:83px"}
-![Old](../../images/dandi-logo.png){: style="height:83px"}
+<p align="center">
+  <img src="https://github.com/CrisxEsc/CrisxEsco.github.io/blob/b21587879cd623d88208b2c4f50e4580ecbd12dc/assets/OG_Animal.png" width="45%">
+  <img src="https://github.com/CrisxEsc/CrisxEsco.github.io/blob/b21587879cd623d88208b2c4f50e4580ecbd12dc/assets/OG_Dash.png" width="45%">
+</p>
 
 ## Enhancement Details
     git submodule add https://github.com/CrisxEsc/Animal-Shelter.git content/Animal-Shelter
