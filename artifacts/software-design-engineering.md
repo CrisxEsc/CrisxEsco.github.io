@@ -26,7 +26,8 @@ I implemented input validation across the app to prevent crashes caused by empty
 [![Event Tracking Application](https://img.shields.io/badge/GitHub-Event%20Tracking%20Application-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/CrisxEsc/Event-Tracking-Application)
 
 
-![App screenshot](https://crisxesco.github.io/assets/App.png)
+![App screenshot](https://raw.githubusercontent.com/CrisxEsc/CrisxEsco.github.io/91f342bb0643a1a1fa5ca038f32b93e75c2d3129/assets/App.png)
+
 
 ---
 ## Reflection
