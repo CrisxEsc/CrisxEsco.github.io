@@ -8,13 +8,11 @@ permalink: /artifacts/algorithms-data-structures.html
 
 # Algorithms & Data Structures Enhancement
 
-Document how you optimized algorithms, data structures, or overall efficiency in this artifact.
+## Brief Overview
 
-## Artifact Overview
+For this category, I continued working on the Event Tracker project. I wanted to improve its responsiveness and scalability. I focused on how the app retrieved and stored event data, especially when filtering or loading large lists. This made it the right fit for demonstrating algorithmic thinking and effective use of data structures.
 
-- **Artifact Title:** _Add the project or repository name_
-- **Course / Context:** _Identify when and where the project originated_
-- **Technology Stack:** _List languages, frameworks, and tools_
+I added indexes to the database to make searches faster. I also implemented an in memory cache using a Least Recently Used strategy, which stored recent queries so repeat searches could load instantly. These changes made the app more efficient and less dependent on network access. I also added offline caching with logic to sync changes when the device reconnects. That work required planning for conflicts and retry logic.
 
 ## Baseline Performance or Behavior
 
@@ -37,10 +35,7 @@ Explain the algorithmic improvements or data structure changes you implemented. 
 | Space Complexity | _Describe baseline_ | _Describe improvement_ | _Add references to code_ |
 | Performance Benchmark | _Add numeric baseline_ | _Add improved result_ | _Link to benchmark script or output_ |
 
+---
 ## Reflection
 
-- **How did the enhancement improve the artifact's efficiency or scalability?**
-- **What tools, analyses, or tests did you use to verify the improvement?**
-- **Which course outcomes does this enhancement satisfy?**
-
-> **Next Step:** Replace each placeholder with concrete data, code snippets, and supporting visuals after completing the enhancement.
+Through this enhancement, I strengthened my understanding of complexity and optimization. I measured query performance before and after, which helped me see the impact of using the right tools. I also practiced managing memory with care. The LRU cache taught me how to balance space and speed. When I saw users navigating smoothly between screens, I knew the changes were working. These enhancements supported outcomes around designing solutions with clear trade offs and using structured data effectively.
