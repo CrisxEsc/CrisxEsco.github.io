@@ -16,7 +16,8 @@ I rewrote several data paths using aggregation pipelines. This let the database 
 ---
 ## Original Data Model
 
-![Old_Dash](assets/OG_Dash.png) ![OG_Animal](assets/AAC.png)
+![Old_Dash](assets/OG_Dash.png) 
+![OG_Animal](assets/AAC.png)
 
 ---
 ## Enhancement Details
