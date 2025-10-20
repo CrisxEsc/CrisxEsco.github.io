@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Professional Self-Assessment
+title: Cristian Escobedo's ePortfolio
 ---
 
 {% include portfolio-nav.html %}
