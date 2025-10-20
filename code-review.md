@@ -31,4 +31,4 @@ _Add your recorded walkthrough here. Options include:_
 - Uploading the video to a cloud storage provider and linking to it
 - Hosting a small MP4 in the repository (be mindful of Git history size)
 
-![Review]assets/Review.jpg
+![Review](assets/Review.jpg)
